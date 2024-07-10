@@ -1,3 +1,6 @@
+![a72fb0fd-e740-4427-803a-0d0dcbb87e2d](https://github.com/bombastictranz/OKX-EXCHANGE/assets/110788242/4e165429-cac9-4cc2-a208-388123bd3ab0)
+![75B1E2A7FDA6CE3D](https://github.com/bombastictranz/OKX-EXCHANGE/assets/110788242/2400a16a-c5da-47af-b28d-e63b4ba00c18)
+![7E3D44D659CE5A9C(1)](https://github.com/bombastictranz/OKX-EXCHANGE/assets/110788242/4b929b53-a5a9-4474-b685-7ae61adba3c9)
 # CRM App
 
 This project was generated with [App Builder Code Gen](https://www.infragistics.com/products/appbuilder).
